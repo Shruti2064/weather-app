@@ -1,0 +1,21 @@
+
+body {
+  margin: 0;
+  /* background-image: url("https://cdn5.f-cdn.com/contestentries/329593/14249726/5699389419de1_thumb900.jpg";width=100%); */
+  background-image: linear-gradient(to bottom,rgb(49, 195, 252), rgb(234, 247, 251));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
